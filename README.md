@@ -5,4 +5,4 @@ Download the source code & open *index.html* to run the application
 
 or
 
-Go to *adipati27ma.github.io* website
+Go to *[adipati27ma.github.io](https://adipati27ma.github.io)* website
